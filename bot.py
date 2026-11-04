@@ -3,8 +3,8 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 import requests
 
-TOKEN = "8183997269:AAElovxXFRd40oatzEtSnKpVm8UAheNvAQw"
-DEFAULT_PHONE = "09663976639"
+TOKEN = "8710217186:AAHEHLljyiIVKIAzfCMjUulGQTOpV-kg-zA"
+DEFAULT_PHONE = "09888866696"
 
 # Mytel OTP API ကိုခေါ်မည့် Function (အောင်မြင်မှု ရှိမရှိ စစ်ဆေးခြင်း)
 def get_otp_from_api(phone_number):
